@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Bootleka
-- 👀 I’m interested in [SHOCK WARNING]: programming
-- 🌱 I’m currently learning c++ & c#
-- 💞️ I’m looking to collaborate on cool stuff ig
-- 📫 How to reach me (TBD)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a witch
+Oh my swirls...
 
 <!---
 Bootleka/Bootleka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
